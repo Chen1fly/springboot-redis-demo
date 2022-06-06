@@ -9,10 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @author lsyonlygoddes
- * @time 2022/03/29 20:20
- */
+
 @RequestMapping("/user")
 @RestController
 public class UserController {
